@@ -1,19 +1,14 @@
 # Hi, I'm Cristian 👋
 
-**Data & AI Engineer** in IE University's Digital Learning department · Madrid · building toward **agentic engineering**.
+Based in Madrid, with a background in business and data and a growing focus on **agentic engineering**: building LLM-based agents that produce consistent, reliable results through guardrails, observability and evals.
 
-I own the data processes (ELT/ETL, metrics, reporting) that run on AWS for our learning analytics. On my own initiative I design the agentic systems around them: the harnesses that let coding agents work safely in production repositories, and multi-agent pipelines with a human in the loop. I'm interested in agentic systems that produce consistent, reliable outputs through guardrails, observability and evals.
+## What I'm into
 
-## What I work on
+- Designing multi-agent systems and the tooling around them: MCP servers, RAG, guardrails and evals.
+- Working with coding agents (Claude Code, Codex) and the harnesses that keep them safe and predictable.
+- Exploring spec-driven development (SDD).
 
-- **Data engineering.** Daily ELT/ETL in Python, SQL and Papermill notebooks feeding an S3 + Redshift lakehouse, custom learning-analytics metrics, and Power BI reporting.
-- **Agentic engineering.**
-  - A harness that lets coding agents (Claude Code, Codex) operate safely on a production ETL repository: hooks, guardrails, commit and release-tagging conventions, and automatic validation with Docker + Papermill.
-  - A multi-agent self-healing data pipeline (n8n, Amazon Bedrock AgentCore, LangGraph): agents fix a failed notebook and open a pull request, I approve it, and an automated recovery reprocesses the affected days. *Currently being implemented.*
-- **LLM tooling.** Internal Custom GPTs, context and instruction engineering.
-- **Currently exploring.** Spec-driven development (SDD).
-
-## Featured projects
+## Projects
 
 | Project | What it is |
 | --- | --- |
@@ -28,17 +23,18 @@ I own the data processes (ELT/ETL, metrics, reporting) that run on AWS for our l
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Amazon Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat&logo=amazonredshift&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangChain%20%7C%20LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![Google ADK](https://img.shields.io/badge/Google%20ADK%20%2B%20Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-## Background
+## Education
 
-MSc in Big Data & Business Analytics (9.78/10) and a BBA, with earlier experience in IT-services bids at Minsait (Indra), e-invoicing at IBM and operations at a design-software startup. Trilingual: English, Spanish and Portuguese.
+- **MSc in Big Data & Business Analytics**, IMF Business School & Universidad Nebrija (9.78/10)
+- **BBA in Business Administration & Management**, Universidad Carlos III de Madrid, with an Erasmus+ exchange at the University of Mannheim
+
+Languages: Portuguese (native), Spanish and English.
 
 📫 [LinkedIn](https://www.linkedin.com/in/cristian-de-andrade-valverde/)
