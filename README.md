@@ -36,5 +36,3 @@ Based in Madrid, with a background in business and data and a growing focus on *
 - **BBA in Business Administration & Management**, Universidad Carlos III de Madrid, with an Erasmus+ exchange at the University of Mannheim
 
 Languages: Portuguese (native), Spanish and English.
-
-📫 [LinkedIn](https://www.linkedin.com/in/cristian-de-andrade-valverde/)
